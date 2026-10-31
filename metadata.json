@@ -1,0 +1,6 @@
+{
+  "name": "Zubair Law Associates",
+  "description": "Chambers of S.M. Zubair, Advocate High Court. Expert legal counsel in civil, criminal, constitutional, and rent litigation, with vetted drafting templates and court resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
