@@ -6,11 +6,12 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
+    base: '/zubair-law-associates-/'
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
       },
-      base: '/zubair-law-associates-/'
+      
     },
     server: {
       // HMR is disabled in AI Studio via DISABLE_HMR env var.
